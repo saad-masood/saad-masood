@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-#### I am a Full Stack Product Developer
+#### I am a Full Stack Developer
 #### Developed 30+ websites/apps
 
 🔭 I’m currently working on Full Stack Developer 
