@@ -7,8 +7,6 @@
 <br>
 💬 Ask me about Javascript jQuery React, CSS3 Bootstrap Tailwind Material UI, PHP, Laravel, Node, Mongo , Redis
 <br>
-📫 How to reach me: +92 (322) 477 6078 / saad.laradev@gmail.com
-<br>
 😄 Pronouns: He/Him
 <br>
 <!-- ⚡ Fun fact: ... -->
